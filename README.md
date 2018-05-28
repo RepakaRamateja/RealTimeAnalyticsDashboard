@@ -23,21 +23,21 @@ https://cloudxlab.com/blog/real-time-analytics-dashboard-with-apache-spark-kafka
 
 
 
-   Technologies Used:
+            Technologies Used:
 
-   Apache Spark 
+                Apache Spark 
 
-   Python
+                Python
 
-   Kafka 
+  				 Kafka 
 
-   Node.js
+  				 Node.js
 
-   Socket.IO  
+   				Socket.IO  
 
-   Highcharts 
+   				Highcharts 
 
-   CloudxLab – Provides a real cloud-based environment for execution purposes and it is also used for practicing and learning various tools.
+   				CloudxLab 
 
 
 </br>
