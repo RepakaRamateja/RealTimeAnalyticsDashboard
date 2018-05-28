@@ -23,15 +23,15 @@ https://cloudxlab.com/blog/real-time-analytics-dashboard-with-apache-spark-kafka
 
 
 
-            Technologies Used:
+    Technologies Used:
 
                 Apache Spark 
 
                 Python
 
-  				 Kafka 
+  				Kafka 
 
-  				 Node.js
+  				Node.js
 
    				Socket.IO  
 
@@ -42,7 +42,7 @@ https://cloudxlab.com/blog/real-time-analytics-dashboard-with-apache-spark-kafka
 
 </br>
 
-   Architecture:
+    Architecture:
 
 ![alt text](https://github.com/RepakaRamateja/RealTimeAnalyticsDashboard/blob/master/architecture.png)
 
