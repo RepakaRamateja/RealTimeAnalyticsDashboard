@@ -22,10 +22,8 @@ https://cloudxlab.com/blog/real-time-analytics-dashboard-with-apache-spark-kafka
 </br>
 
 
-</br>
     Technologies Used:
 
-</br>
     Apache Spark 
 
     Python
