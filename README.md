@@ -15,9 +15,13 @@ https://cloudxlab.com/blog/real-time-analytics-dashboard-with-apache-spark-kafka
  
 </br>
 
- Overview:
+  Overview:
  
- Built a real-time analytics dashboard to visualize the number of orders getting shipped every minute to improve the performance of their logistics of a ecommerce comapany.
+  Built a real-time analytics dashboard to visualize the number of orders getting shipped every minute to improve the performance of their logistics of a ecommerce comapany.
+
+</br>
+
+
 
    Technologies Used:
 
