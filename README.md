@@ -121,10 +121,7 @@ command to create topic
 
  node index.js
  
- As soon as a new message is available in the one minute Kafka topic, node process consumes it. The consumed message then gets emitted to the web browser via Socket.IO
-
-
- As soon as socket.io-client in the web browser receives a new ‘message’ event, data in the event gets processed. If the order status is “shipped” in the received data, it gets added to HighCharts series and gets displayed on the browser.
+ 
 
 </br>
  
@@ -133,7 +130,14 @@ Initial output:
 ![alt text](https://github.com/RepakaRamateja/RealTimeAnalyticsDashboard/blob/master/initial.png)
 
 
-Later Real time Updates: 
+Later: 
+
+ As soon as a new message is available in the one minute Kafka topic, node process consumes it. The consumed message then gets emitted to the web browser via Socket.IO
+
+
+ As soon as socket.io-client in the web browser receives a new ‘message’ event, data in the event gets processed. If the order status is “shipped” in the received data, it gets added to HighCharts series and gets displayed on the browser.
+
+ 
 
 ![alt text](https://github.com/RepakaRamateja/RealTimeAnalyticsDashboard/blob/master/final.png)
 
