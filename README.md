@@ -45,6 +45,8 @@ Built a real-time analytics dashboard to visualize the number of orders getting 
 
  Step1:
 
+</br>
+
  Data set containing CSV files
 
  Since we do not have an online e-commerce portal in place, we took a dataset containing CSV files for simulating a ecommerce portal.
@@ -107,11 +109,14 @@ command to create topic
     "shipped": 657,
     "processing": 987,
     "delivered": 1024
-}
+ }
 
 
  Run Node.js server  and then access dashboard from browser 
 
+ Command:
+
+ node index.js
  
  As soon as a new message is available in the one minute Kafka topic, node process consumes it. The consumed message then gets emitted to the web browser via Socket.IO
 
@@ -119,7 +124,6 @@ command to create topic
  As soon as socket.io-client in the web browser receives a new ‘message’ event, data in the event gets processed. If the order status is “shipped” in the received data, it gets added to HighCharts series and gets displayed on the browser.
 
  
-
 Initial output:
 
 ![alt text](https://github.com/RepakaRamateja/RealTimeAnalyticsDashboard/blob/master/initial.png)
