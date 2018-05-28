@@ -1,17 +1,18 @@
 # RealTimeAnalyticsDashboard
 
-</br>
+
 
 This project is part of course Specialization in Big Data with Hadoop & Spark by CLOUD X LAB.
 
 Taught By : Sandeep Giri  Abhinav Singh  Rohit Gupta  Jatin Shah
 
+</br>
 
+Overview:
 
-    Overview:
+</br>
 
-    Built a real-time analytics dashboard to visualize the number of orders getting shipped every minute to improve the performance of their logistics of a ecommerce comapany.
-
+Built a real-time analytics dashboard to visualize the number of orders getting shipped every minute to improve the performance of their logistics of a ecommerce comapany.
 
 
 <br>
