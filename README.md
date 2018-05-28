@@ -37,6 +37,7 @@ https://cloudxlab.com/blog/real-time-analytics-dashboard-with-apache-spark-kafka
 
  Architecture:
 
+![alt text](https://github.com/RepakaRamateja/RealTimeAnalyticsDashboard/blob/master/architecture.png)
 
 
  Step1:
