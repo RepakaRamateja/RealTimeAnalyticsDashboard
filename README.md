@@ -1,10 +1,8 @@
 # RealTimeAnalyticsDashboard
 
-
-
 This project is part of course Specialization in Big Data with Hadoop & Spark by CLOUD X LAB.
 
-Taught By : Sandeep Giri  Abhinav Singh  Rohit Gupta  Jatin Shah
+Taught By : Sandeep Giri , Abhinav Singh , Rohit Gupta , Jatin Shah
 
 </br>
 
