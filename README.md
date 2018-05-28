@@ -61,6 +61,7 @@ Built a real-time analytics dashboard to visualize the number of orders getting 
 
   2016-07-13 14:20:35,xxxxx-xxx,delivered
 
+</br>
 
  Step2:
 
@@ -79,7 +80,7 @@ Built a real-time analytics dashboard to visualize the number of orders getting 
 
  In the above command put_order_data_in_topic.sh is a shell script which takes broker hostname:port and topic name as input as send data into the topic.
 
-
+</br>
 
  Step3:
 
@@ -100,6 +101,8 @@ command to create topic
  Finally submitting a spark Job
 
  spark-submit --jars spark-streaming-kafka-assembly_2.10-1.6.0.jar spark_streaming_order_status.py zookeeperhostname:port topic used for  csv files.
+
+</br>
 
  Step4:
 
@@ -123,13 +126,14 @@ command to create topic
 
  As soon as socket.io-client in the web browser receives a new ‘message’ event, data in the event gets processed. If the order status is “shipped” in the received data, it gets added to HighCharts series and gets displayed on the browser.
 
+</br>
  
 Initial output:
 
 ![alt text](https://github.com/RepakaRamateja/RealTimeAnalyticsDashboard/blob/master/initial.png)
 
 
-Later: 
+Real time Updates right after processing: 
 
 ![alt text](https://github.com/RepakaRamateja/RealTimeAnalyticsDashboard/blob/master/final.png)
 
