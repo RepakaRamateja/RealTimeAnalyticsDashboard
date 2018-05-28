@@ -9,7 +9,7 @@ Taught By : Sandeep Giri , Abhinav Singh , Rohit Gupta , Jatin Shah
 Overview:
 
 
-Built a real-time analytics dashboard to visualize the number of orders getting shipped every minute to improve the performance of their logistics of a ecommerce comapany.
+Built a real-time analytics dashboard to visualize the number of orders getting shipped every minute to improve the performance of their logistics of a ecommerce company.
 
 
 <br>
@@ -137,7 +137,7 @@ Later:
 
  As soon as socket.io-client in the web browser receives a new ‘message’ event, data in the event gets processed. If the order status is “shipped” in the received data, it gets added to HighCharts series and gets displayed on the browser.
 
- 
+
 
 ![alt text](https://github.com/RepakaRamateja/RealTimeAnalyticsDashboard/blob/master/final.png)
 
