@@ -16,6 +16,8 @@ Built a real-time analytics dashboard to visualize the number of orders getting 
 
     Technologies Used:
 
+</br>    
+
     Apache Spark 
 
     Python
@@ -31,7 +33,7 @@ Built a real-time analytics dashboard to visualize the number of orders getting 
    	CloudxLab 
 
 
-</br>
+
 
 </br>
 
