@@ -133,7 +133,7 @@ Initial output:
 ![alt text](https://github.com/RepakaRamateja/RealTimeAnalyticsDashboard/blob/master/initial.png)
 
 
-Real time Updates right after processing: 
+Later Real time Updates: 
 
 ![alt text](https://github.com/RepakaRamateja/RealTimeAnalyticsDashboard/blob/master/final.png)
 
