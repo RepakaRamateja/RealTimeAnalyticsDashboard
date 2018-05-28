@@ -4,20 +4,13 @@
 
 This project is part of course Specialization in Big Data with Hadoop & Spark by CLOUD X LAB.
 
-Taught By : Abhinav
+Taught By : Sandeep Giri  Abhinav Singh  Rohit Gupta  Jatin Shah
 
 </br>
 
-click the below link to see more information about this project 
+    Overview:
 
-https://cloudxlab.com/blog/real-time-analytics-dashboard-with-apache-spark-kafka/
-
- 
-</br>
-
-  Overview:
- 
-  Built a real-time analytics dashboard to visualize the number of orders getting shipped every minute to improve the performance of their logistics of a ecommerce comapany.
+    Built a real-time analytics dashboard to visualize the number of orders getting shipped every minute to improve the performance of their logistics of a ecommerce comapany.
 
 </br>
 
@@ -72,5 +65,12 @@ https://cloudxlab.com/blog/real-time-analytics-dashboard-with-apache-spark-kafka
  Run Node.js server  and then access dashboard from browser 
 
 
+</br>
 
+click the below link to see more information about this project 
+
+https://cloudxlab.com/blog/real-time-analytics-dashboard-with-apache-spark-kafka/
+
+ 
+</br>
 
