@@ -114,11 +114,11 @@ command to create topic
     "delivered": 1024
  }
 
-  Open index.js using vi or nano
+  Open index.js 
 
   Replace localhost with zookeeper server hostname
 
-  Replace order-min-data with your topic name
+  Replace order-min-data with your one minute topic name
   
   Save the file
 
