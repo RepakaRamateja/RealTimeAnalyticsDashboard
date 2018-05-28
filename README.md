@@ -115,8 +115,11 @@ command to create topic
  }
 
   Open index.js using vi or nano
+
   Replace localhost with zookeeper server hostname
+
   Replace order-min-data with your topic name
+  
   Save the file
 
  Run Node.js server  and then access dashboard from browser 
