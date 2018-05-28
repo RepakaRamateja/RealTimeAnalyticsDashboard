@@ -19,26 +19,30 @@ https://cloudxlab.com/blog/real-time-analytics-dashboard-with-apache-spark-kafka
  
  Built a real-time analytics dashboard to visualize the number of orders getting shipped every minute to improve the performance of their logistics of a ecommerce comapany.
 
- Technologies Used:
+   Technologies Used:
 
- Apache Spark - A fast and general engine for large-scale data processing
+   Apache Spark 
 
- Python
+   Python
 
- Kafka – A high-throughput, distributed, publish-subscribe messaging system
+   Kafka 
 
- Node.js
+   Node.js
 
- Socket.IO – Socket.IO is a JavaScript library for real-time web applications. 
+   Socket.IO  
 
- Highcharts – Interactive JavaScript charts for web pages.
+   Highcharts 
 
- CloudxLab – Provides a real cloud-based environment for execution purposes and it is also used for practicing and learning various tools. 
+   CloudxLab – Provides a real cloud-based environment for execution purposes and it is also used for practicing and learning various tools.
 
- Architecture:
+
+</br>
+
+   Architecture:
 
 ![alt text](https://github.com/RepakaRamateja/RealTimeAnalyticsDashboard/blob/master/architecture.png)
 
+</br>
 
  Step1:
 
