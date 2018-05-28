@@ -6,7 +6,6 @@ This project is part of course Specialization in Big Data with Hadoop & Spark by
 
 Taught By : Sandeep Giri  Abhinav Singh  Rohit Gupta  Jatin Shah
 
-</br>
 
     Overview:
 
