@@ -14,7 +14,7 @@ Built a real-time analytics dashboard to visualize the number of orders getting 
 
 <br>
 
-    Technologies Used:
+## Technology stack
 
 </br>    
 
@@ -54,7 +54,7 @@ Built a real-time analytics dashboard to visualize the number of orders getting 
 
 </br>
 
-    Architecture:
+## Architecture
 
 ![alt text](https://github.com/RepakaRamateja/RealTimeAnalyticsDashboard/blob/master/architecture.png)
 
