@@ -18,20 +18,37 @@ Built a real-time analytics dashboard to visualize the number of orders getting 
 
 </br>    
 
-    Apache Spark 
 
-    Python
-
-    Kafka 
-
-    Node.js
-
-   	Socket.IO  
-
-   	Highcharts 
-
-   	CloudxLab 
-
+<table>
+<thead>
+<tr>
+<th>Area</th>
+<th>Technology</th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Front-End</td>
+		<td> HTML5, Bootstrap, CSS3, Socket.IO, highcharts.js </td>
+	</tr>
+	<tr>
+		<td>Back-End</td>
+		<td>Express, Node.js</td>
+	</tr>
+  <tr>
+		<td>Cluster Computing Framework</td>
+		<td>Apache Spark (python)</td>
+	</tr>
+	<tr>
+		<td>Message Broker</td>
+		<td>Apache kafka</td>
+	</tr>
+	<tr>
+		<td>Environment</td>
+		<td>CloudxLab</td>
+	</tr>
+</tbody>
+</table>
 
 
 
