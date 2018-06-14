@@ -1,6 +1,7 @@
 # RealTimeAnalyticsDashboard
 
-##Introduction
+
+## Introduction
 
 This project is part of course Specialization in Big Data with Hadoop & Spark by CLOUD X LAB.
 
