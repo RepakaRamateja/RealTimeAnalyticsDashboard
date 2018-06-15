@@ -5,7 +5,7 @@
 
 This project is part of course Specialization in Big Data with Hadoop & Spark by CLOUD X LAB.
 
-Taught By : Sandeep Giri , Abhinav Singh , Rohit Gupta , Jatin Shah
+Taught By : Sandeep Giri , Abhinav Singh 
 
 </br>
 
@@ -18,6 +18,9 @@ Built a real-time analytics dashboard to visualize the number of orders getting 
 <br>
 
 ## Technology stack
+
+![alt text](https://github.com/RepakaRamateja/RealTimeAnalyticsDashboard/blob/master/stack.png)
+
 
 </br>    
 
